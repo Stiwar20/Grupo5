@@ -1,7 +1,10 @@
+<!DOCTYPE html>
 <html>
+<head>
+	<title>Grupo 5</title>
+</head>
 <body>
-	<label>	
-		<h1>add h1</h1>
-	</label>
+		<h1>Add h1</h1>
+		<h1>exit</h1>
 </body>
 </html>
